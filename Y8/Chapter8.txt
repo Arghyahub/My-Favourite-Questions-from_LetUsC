@@ -1,0 +1,10 @@
+yNkM
+N- Chapter Number
+M- S.no
+
+Some Good Questions :
+y8k1.c --> Selection sort
+y8k2.c --> Bubble sort
+y8k3.c --> Insertion sort
+y8k4.c --> Sieve Eratosthene Method to find Prime Number
+y8k6.c --> Game
